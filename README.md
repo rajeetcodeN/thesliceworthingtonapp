@@ -3,25 +3,35 @@
 > Approachable golf, multisport games, great food, and a laid-back vibe in Worthington.
 
 [![Web App](https://img.shields.io/badge/Web_App-Live-02C5FB?style=for-the-badge&logo=google-chrome&logoColor=black)](http://localhost:3000)
+[![Direct APK Download](https://img.shields.io/badge/Download_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthington./raw/main/apk/The-Slice-v1.0.0.apk)
 [![Android App](https://img.shields.io/badge/Android_App-Capacitor_8-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthington./releases)
 
 ---
 
 ## 📱 Download the Android App
 
-You can download and install the native Android APK for **The Slice**:
+You can install the native Android APK for **The Slice**:
 
-* **Direct Download**: Download the latest APK from the [GitHub Releases](https://github.com/rajeetcodeN/thesliceworthington./releases) tab.
-* **Or Build from Source**:
-  ```bash
-  # 1. Install dependencies & build web assets
-  npm install
-  npm run cap:sync
+### 📥 [Click Here to Download The-Slice-v1.0.0.apk](https://github.com/rajeetcodeN/thesliceworthington./raw/main/apk/The-Slice-v1.0.0.apk)
 
-  # 2. Open in Android Studio
-  npm run cap:open:android
-  ```
-  In Android Studio, click **Build > Build Bundle(s) / APK(s) > Build APK(s)** to generate your own `app-debug.apk`.
+#### Quick Installation Steps:
+1. Tap the download link above on your Android phone (or download on PC and transfer to your device).
+2. Open the downloaded `The-Slice-v1.0.0.apk` file.
+3. If prompted, allow **"Install from unknown sources"** in Android Settings.
+4. Tap **Install** and enjoy **The Slice** app!
+
+---
+
+### 🛠️ Or Build from Source:
+```bash
+# 1. Install dependencies & build web assets
+npm install
+npm run cap:sync
+
+# 2. Open in Android Studio
+npm run cap:open:android
+```
+In Android Studio, click **Build > Build Bundle(s) / APK(s) > Build APK(s)** to generate your own `The-Slice-v1.0.0.apk`.
 
 ---
 
@@ -93,6 +103,3 @@ npm run lint
 
 ---
 
-## 📄 License
-
-Private & Proprietary — © The Slice Worthington. All rights reserved.
