@@ -3,8 +3,8 @@
 > Approachable golf, multisport games, great food, and a laid-back vibe in Worthington.
 
 [![Web App](https://img.shields.io/badge/Web_App-Live-02C5FB?style=for-the-badge&logo=google-chrome&logoColor=black)](http://localhost:3000)
-[![Direct APK Download](https://img.shields.io/badge/Download_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthington./raw/main/apk/The-Slice-v1.0.0.apk)
-[![Android App](https://img.shields.io/badge/Android_App-Capacitor_8-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthington./releases)
+[![Direct APK Download](https://img.shields.io/badge/Download_APK-v1.0.0-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthingtonapp/raw/main/apk/The-Slice-v1.0.0.apk)
+[![Android App](https://img.shields.io/badge/Android_App-Capacitor_8-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rajeetcodeN/thesliceworthingtonapp/releases)
 
 ---
 
@@ -12,7 +12,7 @@
 
 You can install the native Android APK for **The Slice**:
 
-### 📥 [Click Here to Download The-Slice-v1.0.0.apk](https://github.com/rajeetcodeN/thesliceworthington./raw/main/apk/The-Slice-v1.0.0.apk)
+### 📥 [Click Here to Download The-Slice-v1.0.0.apk](https://github.com/rajeetcodeN/thesliceworthingtonapp/raw/main/apk/The-Slice-v1.0.0.apk)
 
 #### Quick Installation Steps:
 1. Tap the download link above on your Android phone (or download on PC and transfer to your device).
@@ -64,8 +64,8 @@ In Android Studio, click **Build > Build Bundle(s) / APK(s) > Build APK(s)** to 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/rajeetcodeN/thesliceworthington..git
-cd thesliceworthington.
+git clone https://github.com/rajeetcodeN/thesliceworthingtonapp.git
+cd thesliceworthingtonapp
 ```
 
 ### 2. Install dependencies
