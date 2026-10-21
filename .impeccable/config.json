@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "montserrat",
+        "createdAt": "2026-10-14T05:00:15.519Z",
+        "reason": "The supplied The Slice brand style guide specifies Montserrat as the approved typography."
+      }
+    ]
+  }
+}
